@@ -1,0 +1,101 @@
+[
+  {
+    "jid": "6281384200380@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#menu",
+        "count": 9
+      },
+      {
+        "nama": "#dashboard",
+        "count": 1
+      },
+      {
+        "nama": "#attp",
+        "count": 1
+      },
+      {
+        "nama": "#listbahasa",
+        "count": 1
+      },
+      {
+        "nama": "#say",
+        "count": 1
+      },
+      {
+        "nama": "#listpremium",
+        "count": 1
+      },
+      {
+        "nama": "#speed",
+        "count": 1
+      },
+      {
+        "nama": "#donate",
+        "count": 1
+      },
+      {
+        "nama": "#waifu",
+        "count": 1
+      },
+      {
+        "nama": "#cekpremium",
+        "count": 1
+      },
+      {
+        "nama": "#group",
+        "count": 4
+      },
+      {
+        "nama": "#close",
+        "count": 1
+      },
+      {
+        "nama": "#setopen",
+        "count": 1
+      },
+      {
+        "nama": "#delsetopen",
+        "count": 1
+      },
+      {
+        "nama": "#antiwame",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "jid": "6285161639049@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#menu",
+        "count": 1
+      },
+      {
+        "nama": "#infobot",
+        "count": 1
+      },
+      {
+        "nama": "#listpremium",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "jid": "628385834766@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#menu",
+        "count": 1
+      },
+      {
+        "nama": "#foliokiri",
+        "count": 1
+      },
+      {
+        "nama": "#cekpremium",
+        "count": 1
+      }
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+{
+    "ownerNumber": ["6281384200380@s.whatsapp.net","6283890502148@s.whatsapp.net"],
+    "ownerName": "ᴹᴿ᭄ DykkzStoreོ ×፝֟͜×",
+    "instagram" : "https://instagram.com/dhykkkz",
+    "botName": "Cyra-MD²ོ ",
+    "footer": "CYRA - MD ",
+    "sessionName": "session",
+    "pathimg": "./media/Haruka.jpg",
+    "BotKey": "V12",
+    "auto_welcomeMsg": true,
+    "auto_leaveMsg": true,    
+    "autobio": true,
+    "anticall": true,
+    "autorespond": false,
+    "autoblok212": true,
+    "autoread": true,
+    "gamewaktu": 90,
+    "limitCount": 25,
+    "gcount": {
+        "prem": 1000,
+        "user": 15
+    }
+}
